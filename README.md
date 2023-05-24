@@ -1,2 +1,4 @@
 # Loan_repayment_prediction
-Link data 
+Balance data with SMOTE.
+Using scikit-learn module to build Logistic Regression, Support Vector Machine, XGBoost.
+Evaluate by classification report and AUC-ROC.
